@@ -1,0 +1,15 @@
+/Users/efe/Projects/KareEksikFaktöriyel/KareEksikFaktöriyel/obj/Debug/net7.0/KareEksikFaktöriyel.csproj.AssemblyReference.cache
+/Users/efe/Projects/KareEksikFaktöriyel/KareEksikFaktöriyel/obj/Debug/net7.0/KareEksikFaktöriyel.GeneratedMSBuildEditorConfig.editorconfig
+/Users/efe/Projects/KareEksikFaktöriyel/KareEksikFaktöriyel/obj/Debug/net7.0/KareEksikFaktöriyel.AssemblyInfoInputs.cache
+/Users/efe/Projects/KareEksikFaktöriyel/KareEksikFaktöriyel/obj/Debug/net7.0/KareEksikFaktöriyel.AssemblyInfo.cs
+/Users/efe/Projects/KareEksikFaktöriyel/KareEksikFaktöriyel/obj/Debug/net7.0/KareEksikFaktöriyel.csproj.CoreCompileInputs.cache
+/Users/efe/Projects/KareEksikFaktöriyel/KareEksikFaktöriyel/bin/Debug/net7.0/KareEksikFaktöriyel
+/Users/efe/Projects/KareEksikFaktöriyel/KareEksikFaktöriyel/bin/Debug/net7.0/KareEksikFaktöriyel.deps.json
+/Users/efe/Projects/KareEksikFaktöriyel/KareEksikFaktöriyel/bin/Debug/net7.0/KareEksikFaktöriyel.runtimeconfig.json
+/Users/efe/Projects/KareEksikFaktöriyel/KareEksikFaktöriyel/bin/Debug/net7.0/KareEksikFaktöriyel.dll
+/Users/efe/Projects/KareEksikFaktöriyel/KareEksikFaktöriyel/bin/Debug/net7.0/KareEksikFaktöriyel.pdb
+/Users/efe/Projects/KareEksikFaktöriyel/KareEksikFaktöriyel/obj/Debug/net7.0/KareEksikFaktöriyel.dll
+/Users/efe/Projects/KareEksikFaktöriyel/KareEksikFaktöriyel/obj/Debug/net7.0/refint/KareEksikFaktöriyel.dll
+/Users/efe/Projects/KareEksikFaktöriyel/KareEksikFaktöriyel/obj/Debug/net7.0/KareEksikFaktöriyel.pdb
+/Users/efe/Projects/KareEksikFaktöriyel/KareEksikFaktöriyel/obj/Debug/net7.0/KareEksikFaktöriyel.genruntimeconfig.cache
+/Users/efe/Projects/KareEksikFaktöriyel/KareEksikFaktöriyel/obj/Debug/net7.0/ref/KareEksikFaktöriyel.dll
